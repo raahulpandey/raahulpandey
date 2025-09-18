@@ -40,8 +40,15 @@ A passionate Backend Developer || Cloud & DevOps Enthusiast || Data Engineering 
 ---
 [![](https://visitcount.itsvg.in/api?id=raahulpandey&icon=0&color=0)](https://visitcount.itsvg.in)
 
- ## 💰 You can help me by Donating
-[![PhonePe](https://img.shields.io/badge/PhonePe-3D7BFA?style=for-the-badge&logo=phonepe&logoColor=white)](upi://pay?pa=9267991067@ybl)
+## ☕ Support Me & Stay Connected 💸
+
+If you like my work, you can **buy me a coffee** or **ask for my payment QR** on Instagram!  
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://www.buymeacoffee.com/raahulpandey)  
+
+📸 **Instagram:** [@rahulpandey_1612](https://www.instagram.com/rahulpandey_1612) – DM me for my payment QR!  
+
+💰 Thank you for your support! Every coffee ☕ fuels my projects 🚀💸
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
